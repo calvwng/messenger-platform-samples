@@ -2,5 +2,6 @@
     "appSecret": "b5622e541ad6d82856447f25fd3574c5",
     "pageAccessToken": "EAAZAdaTkYGd0BAAMeW4i2NzVCNdpgDApUVXeQgtCm2GP384ipjunZAuwTmey8B4vl0H7z5nwUAeqZBaJTNupkFhIZAcMecjwEZB9rkjBckuqXlXrF8Exc3952ZB4reBXgw1j16vitQnUZAwqvPZAChPGwLmhRbpucwrErnFNLRlPmwZDZD",
     "validationToken": "test_token",
-    "serverURL": "https://messenger-friendz-pollbot.herokuapp.com/"
+    "serverURL": "https://messenger-friendz-pollbot.herokuapp.com/",
+    "DATABASE_URL": "postgres://voohhefjsswqoy:c4db0a1d17cce2a5c7ed66d58dd0a77ce32f9aa7c7dbb40b4e4bd6fdf1ba9f46@ec2-54-163-240-7.compute-1.amazonaws.com:5432/de9cqbj9pqp31u"
 }
