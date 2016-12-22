@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
+    "appSecret": "b5622e541ad6d82856447f25fd3574c5",
     "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "validationToken": "test_token",
+    "serverURL": "https://messenger-friendz-pollbot.herokuapp.com/"
 }
