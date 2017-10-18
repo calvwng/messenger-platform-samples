@@ -41,7 +41,7 @@ app.use(express.static('public'));
 //     .query('CREATE TABLE users(id SERIAL PRIMARY KEY, name VARCHAR(40) not null)')
 //     .on('end', () => { client.end(); });
 
-});
+// });
 
 /*
  * Be sure to setup your config values before running this code. You can
